@@ -1,0 +1,5 @@
+{
+    "project":"Custom Docker Image",
+    "version":"1.0",
+    "environment":"development"
+}
